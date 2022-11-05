@@ -2,7 +2,7 @@
 
 **`Data Scientist student`**
 
-Study in the University of Luxembourg. Interested in ML, DL, Data science, Data Engineer, and Big Data.
+Study in the University of Luxembourg. Interested in ML, DL, Data science, Data Engineer, Business Intelligence and Big Data.
 
 ---
 
