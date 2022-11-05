@@ -2,7 +2,7 @@
 
 **`Data Scientist student`**
 
-I'm a data scientist student in the University of Luxembourg. I am interested in ML, DL and Big Data.
+Study in the University of Luxembourg. Interested in ML, DL, Data science, Data Engineer, and Big Data.
 
 ---
 
