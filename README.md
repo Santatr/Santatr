@@ -1,4 +1,4 @@
-"As a data science student with a passion for machine learning, deep learning, and data engineering, I am constantly seeking new and challenging projects to further hone my skills and expand my knowledge. I am excited to explore the realm of business intelligence and big data, and am eager to apply my expertise to any interesting project that aligns with my interests"
+"As a data science student with a passion for data analysis, machine learning and big data. I am constantly seeking new and challenging projects to further hone my skills and expand my knowledge. I am excited to explore and am eager to apply my expertise to any interesting project that aligns with my interests."
 
 ---
 
